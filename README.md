@@ -1,6 +1,6 @@
 # Ramps Library for 7 Motors
 
-This is a modified version of the ramps libryry made by momostein.
+This is a modified version of the ramps library made by momostein.
 
 https://github.com/momostein/Ramps
 
