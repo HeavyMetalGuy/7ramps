@@ -1,9 +1,11 @@
-# Ramps Library
+# Ramps Library for 7 Motors
 
-**Welcome GitHub repository of my school project!**
+This is a modified version of the ramps libryry made by momostein.
 
-This is my Library for the Ramps 1.4 shield.
-The annotations are currently in Dutch, but I'm prepared to translate it all if there is enough demand.
+https://github.com/momostein/Ramps
+
+My goal is to control 7 stepper motors using the ramps motor shield with a stepper expander.
+
 
 ## Functions
 
